@@ -1,7 +1,7 @@
 
 # AttendAI: Automated Attendance Tracking System
 
-AttendAI is a real-time, AI-powered attendance tracking system designed for classroom environments. It uses a pre-trained YOLOv8 model for face detection and a FaceNet model for face recognition to automate and streamline the process of tracking attendance, ensuring accuracy, scalability, and ease of use.
+AttendAI is a real-time, AI-powered attendance tracking system designed for classroom environments. It uses a pre-trained YOLOv8 model for face detection and a FaceNet model for face recognition to automate and streamline the process of tracking attendance.
 
 ---
 
