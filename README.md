@@ -15,7 +15,7 @@ To run AttendAI locally, follow these steps:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/AttendAI.git
+git clone https://github.com/Mohamad-Abdulkadir/AttendAI.git
 cd AttendAI
 ```
 
