@@ -16,7 +16,6 @@ To run AttendAI locally, follow these steps:
 ### Clone the Repository
 ```bash
 git clone https://github.com/Mohamad-Abdulkadir/AttendAI-CSBP441-term-project.git
-cd AttendAI
 ```
 
 ### Install Dependencies
